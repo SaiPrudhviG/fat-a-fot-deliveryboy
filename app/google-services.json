@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "720823506135",
+    "firebase_url": "https://fatdeliveryboy.firebaseio.com",
+    "project_id": "fatdeliveryboy",
+    "storage_bucket": "fatdeliveryboy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720823506135:android:844d1a23e01c1a68",
+        "android_client_info": {
+          "package_name": "fat.ap.fatdeliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720823506135-n7dmfd1pveph3letajcqjumpg4pkist3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fat.ap.fatdeliveryboy",
+            "certificate_hash": "75ae14187a6f45046492fe5fbb4a8d0be3314058"
+          }
+        },
+        {
+          "client_id": "720823506135-usn0o057872jim065nsoibbq7jfs4r36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxEi4vBX-CbN9vnvVQ6b0qoo9e9p2ddKE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720823506135-usn0o057872jim065nsoibbq7jfs4r36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
